@@ -1,1 +1,2 @@
 var playlist = {Wu_Tang: "Slow Blues"}
+function updatePlaylist(playlist, artistName, songTitle)
